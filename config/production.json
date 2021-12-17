@@ -1,0 +1,6 @@
+{
+    "name":"Vidily-production",
+    "mail":{
+        "host":"production-mail-sever"
+    }
+}
